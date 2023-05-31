@@ -30,3 +30,4 @@ laba4:
 8. Обеспечение статического полиморфизма при переопределении функций в классе Vector3D и демонстрация его особенностей в программе.
 
 9. Конец.
+видео:https://drive.google.com/file/d/1X7l_GG8F9WwM1j_g4XxiKHHBYscgr_bp/view?usp=sharing
